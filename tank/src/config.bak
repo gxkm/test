@@ -1,0 +1,9 @@
+#tank count at initialization
+initTankCount=10
+tankSpeed=5
+bulletSpeed=10
+gameWidth=1080
+gameHight=720
+#fireStrategy
+goodFS=com.ruiyun.tank.FourDirFireStrategy
+badFS=com.ruiyun.tank.DefaultFireStrategy
